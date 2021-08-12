@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and music.
 - 🌱 I’m currently learning more coding language.
 - 💞️ I’m looking to collaborate on something maybe.
-- 📫 How to reach me - email me
 
 <!---
 andrewlalk/andrewlalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
